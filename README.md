@@ -13,4 +13,10 @@ on a local (i.e. by themselves) and global (by others) level.
 The last part of the talk is a walkthrough some of the tools that can be
 used to help make research reproducible and sharable, using Github and Binder.
 
+To give the talk, you must have RISE installed - you can grab it at https://github.com/damianavila/RISE
+
+Alternatively, find it on Binder:
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/laserkelvin/Reproducible-Research.git/master)
+
 Please feel free to send comments and feedback to kinlee@cfa.harvard.edu!
+
